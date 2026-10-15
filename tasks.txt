@@ -1,0 +1,5 @@
+Tasks
+
+1. Finish Git lab assignment
+2. Review Python dictionaries
+3. Prepare project charter notes
