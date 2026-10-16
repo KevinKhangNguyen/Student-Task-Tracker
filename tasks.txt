@@ -4,4 +4,5 @@ Tasks
 2. Review Python dictionaries - Medium Priority
 3. Prepare project charter notes - Low Priority
 4. Update task list with an extra task - Low Priority
-5. Submit
+5. Review code and do pull request
+6. Submit on other repo
