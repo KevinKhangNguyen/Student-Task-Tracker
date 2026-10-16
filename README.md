@@ -219,3 +219,6 @@ Resolving deltas: 100% (2/2), done.
 
 kevin@KevinNguyenPC UCRT64 ~
 $ cd student-task-tracker-copy
+
+These are some of the commands I do.
+These are some final changes I did
